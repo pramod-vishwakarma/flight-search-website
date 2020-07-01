@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/flight-search-website/static/css/main.08a5c13c.chunk.css",
+    "main.js": "/flight-search-website/static/js/main.354e8712.chunk.js",
+    "main.js.map": "/flight-search-website/static/js/main.354e8712.chunk.js.map",
+    "runtime-main.js": "/flight-search-website/static/js/runtime-main.488ab3e5.js",
+    "runtime-main.js.map": "/flight-search-website/static/js/runtime-main.488ab3e5.js.map",
+    "static/css/2.180a5108.chunk.css": "/flight-search-website/static/css/2.180a5108.chunk.css",
+    "static/js/2.a955482c.chunk.js": "/flight-search-website/static/js/2.a955482c.chunk.js",
+    "static/js/2.a955482c.chunk.js.map": "/flight-search-website/static/js/2.a955482c.chunk.js.map",
+    "index.html": "/flight-search-website/index.html",
+    "precache-manifest.7302de3aca655aa3783c45216ef7e715.js": "/flight-search-website/precache-manifest.7302de3aca655aa3783c45216ef7e715.js",
+    "service-worker.js": "/flight-search-website/service-worker.js",
+    "static/css/2.180a5108.chunk.css.map": "/flight-search-website/static/css/2.180a5108.chunk.css.map",
+    "static/css/main.08a5c13c.chunk.css.map": "/flight-search-website/static/css/main.08a5c13c.chunk.css.map",
+    "static/js/2.a955482c.chunk.js.LICENSE": "/flight-search-website/static/js/2.a955482c.chunk.js.LICENSE",
+    "static/media/mdb.css": "/flight-search-website/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/flight-search-website/static/media/fa-solid-900.f6121be5.woff2",
+    "static/media/styles.css": "/flight-search-website/static/media/revicons.2feb69cc.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.488ab3e5.js",
+    "static/css/2.180a5108.chunk.css",
+    "static/js/2.a955482c.chunk.js",
+    "static/css/main.08a5c13c.chunk.css",
+    "static/js/main.354e8712.chunk.js"
+  ]
+}

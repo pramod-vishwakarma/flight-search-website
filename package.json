@@ -31,7 +31,7 @@
     "eject": "react-scripts eject",
     "rename": "renamer --find App-clear.js --replace App.js ./src/App-clear.js && renamer --find style.css --replace index.css ./src/style.css ",
     "remove-demo": "rimraf ./src/assets ./src/components ./src/pages ./src/Routes.js ./src/App.js ./src/index.css && npm run rename",
-    "predeploy":"npm build",
+    "predeploy":"npm run build",
     "deploy":"gh-pages -d build"
 
   },
