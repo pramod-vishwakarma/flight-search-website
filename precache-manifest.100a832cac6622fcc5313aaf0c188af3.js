@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13504b420a70db441379b227268b1375",
+    "revision": "57ef38bb7f1a183cf46ce2d66d312859",
     "url": "/flight-search-website/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/flight-search-website/static/css/2.180a5108.chunk.css"
   },
   {
-    "revision": "a61369dd62cf374386c1",
-    "url": "/flight-search-website/static/css/main.08a5c13c.chunk.css"
+    "revision": "fc6f6828fdbf6b654f81",
+    "url": "/flight-search-website/static/css/main.b1857d5b.chunk.css"
   },
   {
     "revision": "b7ee79e723d655df19b8",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/flight-search-website/static/js/2.a955482c.chunk.js.LICENSE"
   },
   {
-    "revision": "a61369dd62cf374386c1",
-    "url": "/flight-search-website/static/js/main.354e8712.chunk.js"
+    "revision": "fc6f6828fdbf6b654f81",
+    "url": "/flight-search-website/static/js/main.5597129c.chunk.js"
   },
   {
     "revision": "7d0c9e39eeb1cb2c0d25",
