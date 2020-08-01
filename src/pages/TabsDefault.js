@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter,Route,Switch} from 'react-router-dom';
 import { MDBNav, MDBNavItem, MDBNavLink,MDBIcon } from "mdbreact";
-import CollapsePage from "./flights";
+import FormsPage from "./flights";
 import HotelsFormsPage from "./hotels";
 import HolidayFormsPage from "./holiday";
 const btnRound = {marginBottom:'.5rem',marginLeft:'20px', padding:"4px",
@@ -44,7 +44,7 @@ export default () => (
     </MDBNav>
     <hr/>
     <Switch>``
-      <Route path="/flight" component={CollapsePage}></Route>
+      <Route path="/flight" component={FormsPage}></Route>
       <Route path="/hotel" component={HotelsFormsPage}></Route>
       <Route path="/tour" component={HolidayFormsPage}></Route>
     </Switch>  

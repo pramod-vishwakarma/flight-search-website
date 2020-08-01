@@ -100,7 +100,6 @@ handleRemoveRow = () => {
               )}
           </MDBRow>
             ))}            
-
           <MDBRow>
             <MDBCol className="mb-3 mt-1">
             <MDBBtn outline color="amber" type="fetch" style={{padding:'4px' ,borderRadius:'10rem'}} onClick={this.handleAddRow}>

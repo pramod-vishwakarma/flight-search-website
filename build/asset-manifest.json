@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/flight-search-website/static/css/main.08a5c13c.chunk.css",
-    "main.js": "/flight-search-website/static/js/main.dc94b153.chunk.js",
-    "main.js.map": "/flight-search-website/static/js/main.dc94b153.chunk.js.map",
+    "main.css": "/flight-search-website/static/css/main.b1857d5b.chunk.css",
+    "main.js": "/flight-search-website/static/js/main.5597129c.chunk.js",
+    "main.js.map": "/flight-search-website/static/js/main.5597129c.chunk.js.map",
     "runtime-main.js": "/flight-search-website/static/js/runtime-main.488ab3e5.js",
     "runtime-main.js.map": "/flight-search-website/static/js/runtime-main.488ab3e5.js.map",
     "static/css/2.180a5108.chunk.css": "/flight-search-website/static/css/2.180a5108.chunk.css",
     "static/js/2.a955482c.chunk.js": "/flight-search-website/static/js/2.a955482c.chunk.js",
     "static/js/2.a955482c.chunk.js.map": "/flight-search-website/static/js/2.a955482c.chunk.js.map",
     "index.html": "/flight-search-website/index.html",
-    "precache-manifest.a2735ce93ddc40c6b6f8d85156cb8f08.js": "/flight-search-website/precache-manifest.a2735ce93ddc40c6b6f8d85156cb8f08.js",
+    "precache-manifest.100a832cac6622fcc5313aaf0c188af3.js": "/flight-search-website/precache-manifest.100a832cac6622fcc5313aaf0c188af3.js",
     "service-worker.js": "/flight-search-website/service-worker.js",
     "static/css/2.180a5108.chunk.css.map": "/flight-search-website/static/css/2.180a5108.chunk.css.map",
-    "static/css/main.08a5c13c.chunk.css.map": "/flight-search-website/static/css/main.08a5c13c.chunk.css.map",
+    "static/css/main.b1857d5b.chunk.css.map": "/flight-search-website/static/css/main.b1857d5b.chunk.css.map",
     "static/js/2.a955482c.chunk.js.LICENSE": "/flight-search-website/static/js/2.a955482c.chunk.js.LICENSE",
     "static/media/mdb.css": "/flight-search-website/static/media/arrow_right.8ef6a08c.svg",
     "static/media/all.min.css": "/flight-search-website/static/media/fa-solid-900.f6121be5.woff2",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.488ab3e5.js",
     "static/css/2.180a5108.chunk.css",
     "static/js/2.a955482c.chunk.js",
-    "static/css/main.08a5c13c.chunk.css",
-    "static/js/main.dc94b153.chunk.js"
+    "static/css/main.b1857d5b.chunk.css",
+    "static/js/main.5597129c.chunk.js"
   ]
 }

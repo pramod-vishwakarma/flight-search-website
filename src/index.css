@@ -252,7 +252,7 @@ h5,h6{
 /* form card */
 .affix{
   top:100px;
-    position:fixed;
+    position:sticky;
 }
  /*  */
  .holiday-destination .country{

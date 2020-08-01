@@ -35,30 +35,20 @@ const responsive = {
 };
 class Home extends Component {
   render() {
-    const cardStyle = { width: "160px" };
+    const cardStyle = {width: "160px",marginLeft:'16px',marginRight:'20px'};
     return (
       <MDBContainer className="text-center mt-5 pt-5 ">
         <MDBRow>
-          {/* form start */}
-          <MDBCol md="4" className="column-2 px-2 mb-r">
-            <MDBCard style={{ width: "30rem" }} className="affix">
-              <MDBCardBody>
-                <TabsDefault />
-              </MDBCardBody>
-            </MDBCard>
-          </MDBCol>
-          {/* form end */}
-          <MDBCol md="8" className="column-2 px-2 mb-r" id="details">
+          
+          <MDBCol md="8" className="column-2" id="details">
             <div>
-              {" "}
-              {/* domestic flight searches */}
-              <h6 style={{ textAlign: "left" }}>
+              <h5 style={{ textAlign: "left", marginTop:'10px'}}>
                 Popular domestic Flight Routes
-              </h6>
+              </h5>
               <Carousel
                 responsive={responsive}
                 autoPlay
-                slidesToSlide={1}
+                slidesToSlide={3}
                 autoPlaySpeed={7000}
                 transitionDuration={500}
                 // removeArrowOnDeviceType={["tablet", "mobile"]}
@@ -169,12 +159,12 @@ class Home extends Component {
               </Carousel>
             </div>{" "}
             {/* end domestic flight searches */}
-            <div className="mt-5">
+            <div className="mt-4">
               {" "}
               {/* International flight searches */}
-              <h6 style={{ textAlign: "left" }}>
+              <h5 style={{ textAlign: "left" }}>
                 Popular International Flight Routes
-              </h6>
+              </h5>
               <Carousel
                 responsive={responsive}
                 autoPlay
@@ -293,18 +283,18 @@ class Home extends Component {
             <MDBContainer>
               <MDBRow>
                 <MDBCol>
-                  <div className="mt-5">
-                    <h6 style={{ textAlign: "left" }}>
+                  <div className="mt-4">
+                    <h5 style={{ textAlign: "left" }}>
                       Top International Holiday Destinations
-                    </h6>
+                    </h5>
                     <ListPanelPage />
                   </div>
                 </MDBCol>
                 <MDBCol>
-                  <div className="mt-5">
-                    <h6 style={{ textAlign: "left" }}>
+                  <div className="mt-4">
+                    <h5 style={{ textAlign: "left" }}>
                       Top International Holiday Destinations
-                    </h6>
+                    </h5>
                     <ListPanelPage />
                   </div>
                 </MDBCol>
@@ -455,7 +445,7 @@ class Home extends Component {
                       <h5>Keep In Touch</h5>
                       <a href="#!" id="effects">
                         <img
-                          src="https://www.milehighstore.com/assets/subscribe/images/facebook.svg"
+                          src="../../assets/facebook.svg"
                           alt="facebook"
                           title="Facebook"
                           width="33px"
@@ -463,7 +453,7 @@ class Home extends Component {
                       </a>
                       <a href="#!" id="effects">
                         <img
-                          src="https://www.milehighstore.com/assets/subscribe/images/twitter.svg"
+                          src="../../assets/twitter.svg"
                           alt="twitter"
                           title="Twitter"
                           width="33px"
@@ -471,14 +461,14 @@ class Home extends Component {
                       </a>
                       <a href="#!" id="effects" title="instagram">
                         <img
-                          src="https://www.milehighstore.com/assets/subscribe/images/instagram.svg"
+                          src="../../assets/instagram.svg"
                           width="32px"
                           alt="instagram"
                         />
                       </a>
                       <a href="#!" id="effects">
                         <img
-                          src="https://www.milehighstore.com/assets/subscribe/images/linkedin.svg"
+                          src="../../assets/linkedin.svg"
                           width="33px"
                           alt="linkedIn"
                           title="linkedIn"
@@ -502,6 +492,15 @@ class Home extends Component {
             {/* end footer */}
           </MDBCol>
           {/* end left side data */}
+          {/* form start */}
+        <MDBCol md="4" className="column-2 px-2 mb-r">
+            <MDBCard style={{width:"30rem"}} className="affix">
+              <MDBCardBody>
+                <TabsDefault />
+              </MDBCardBody>
+            </MDBCard>
+          </MDBCol>
+          {/* form end */}
         </MDBRow>
       </MDBContainer>
     );
